@@ -1,0 +1,2 @@
+export const SELECT_SEAT = 'SELECT_SEAT';
+export const SAVE_SEATS_SELECTED = 'SAVE_SEATS_SELECTED';

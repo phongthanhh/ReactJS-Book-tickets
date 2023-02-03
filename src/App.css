@@ -65,7 +65,7 @@ body{
   border-left: 50px solid transparent;
   border-right: 50px solid transparent;
   height: 100;
-  width:80%;
+  width:100%;
   filter: drop-shadow(4px 30px 20px rgba(255, 255, 255, 0.5));
   font-size: 25px;
   color: #fff;
@@ -81,7 +81,7 @@ body{
   text-align: center;
 }
 #seatsBlock{
-  width: 80%;
+  width: 100%;
 }
 
 .home h1{
@@ -146,4 +146,7 @@ body{
   width: 45px;
   height: 35px;
 
+}
+th,td{
+  padding-bottom: 10px;
 }
