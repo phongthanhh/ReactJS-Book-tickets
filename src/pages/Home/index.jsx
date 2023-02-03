@@ -1,8 +1,6 @@
 import React from 'react'
 
 export default function Home() {
-
-
     return (
         <div className='home container py-5'>
             <h1>MOVIE SEAT SELECTION</h1>

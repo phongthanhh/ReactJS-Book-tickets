@@ -1,6 +1,5 @@
-import logo from './logo.svg';
+import { Home } from 'pages';
 import './App.css';
-import Home from './pages/MovieSeat/Home';
 
 function App() {
   return (
